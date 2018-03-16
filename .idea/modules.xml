@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestAutomation.iml" filepath="$PROJECT_DIR$/.idea/modules/RestAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestAutomation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RestAutomation_main.iml" group="RestAutomation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RestAutomation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RestAutomation_test.iml" group="RestAutomation" />
     </modules>
   </component>
 </project>
